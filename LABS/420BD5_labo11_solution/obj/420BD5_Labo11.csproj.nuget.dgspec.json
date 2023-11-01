@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FC 6139\\BD5 20230123 au 20230407\\R11 Images et Optimisation\\429BD5_labo11_SOLUTION\\4204D5_labo11_solution\\420BD5_Labo11.csproj": {}
+  },
+  "projects": {
+    "D:\\FC 6139\\BD5 20230123 au 20230407\\R11 Images et Optimisation\\429BD5_labo11_SOLUTION\\4204D5_labo11_solution\\420BD5_Labo11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FC 6139\\BD5 20230123 au 20230407\\R11 Images et Optimisation\\429BD5_labo11_SOLUTION\\4204D5_labo11_solution\\420BD5_Labo11.csproj",
+        "projectName": "420BD5_Labo11",
+        "projectPath": "D:\\FC 6139\\BD5 20230123 au 20230407\\R11 Images et Optimisation\\429BD5_labo11_SOLUTION\\4204D5_labo11_solution\\420BD5_Labo11.csproj",
+        "packagesPath": "C:\\Users\\chantal.vallieres\\.nuget\\packages\\",
+        "outputPath": "D:\\FC 6139\\BD5 20230123 au 20230407\\R11 Images et Optimisation\\429BD5_labo11_SOLUTION\\4204D5_labo11_solution\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chantal.vallieres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.308\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.22, 6.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.308\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

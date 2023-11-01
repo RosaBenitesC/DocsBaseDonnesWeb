@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _4204D5_labo12
+build_property.RootNamespace = _4204D5_labo12
+build_property.ProjectDir = D:\FC 6139\BD5 20230123 au 20230407\R11 Images et Optimisation\429BD5_labo11_SOLUTION\4204D5_labo11_solution\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FC 6139\BD5 20230123 au 20230407\R11 Images et Optimisation\429BD5_labo11_SOLUTION\4204D5_labo11_solution
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/Fruits/AjouterImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJ1aXRzXEFqb3V0ZXJJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/Fruits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJ1aXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/Fruits/PreferenceEtudiant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJ1aXRzXFByZWZlcmVuY2VFdHVkaWFudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FC 6139/BD5 20230123 au 20230407/R11 Images et Optimisation/429BD5_labo11_SOLUTION/4204D5_labo11_solution/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-13a7wh6afp
